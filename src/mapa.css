@@ -1,0 +1,30 @@
+.contacto{
+    text-align: center; /* O ajusta la altura según tus necesidades */
+  }
+.t{
+    font-size: 60px;
+    color: #81638B;
+    margin: 10px;
+}
+.i{
+    font-size: 40px;
+    margin: 10px;
+
+}
+@media (max-width: 700px) {
+    .t{
+        font-size: 30px;
+        color: #81638B;
+        margin: 5px;
+    }
+    .i{
+        font-size: 20px;
+        margin: 5px;
+    
+    }
+    .contacto{
+       margin-top: 200px;
+      }
+      
+
+}
